@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="pop_movies_label">Popular Movies</string>
+    <string name="movie_detail_label">Movie Details</string>
+
+    <string name="pref_sort_by_popularity_desc" translatable="false">popularity.desc</string>
+    <string name="pref_sort_by_vote_average_desc" translatable="false">vote_average.desc</string>
+    <string name="pref_sort_by_favorite" translatable="false">favorite</string>
+
+    <string name="pref_sort_by_label">Sort by</string>
+    <string name="pref_sort_by_label_popularity_desc" translatable="false">Most popular</string>
+    <string name="pref_sort_by_label_vote_average_desc" translatable="false">Highest-rated</string>
+    <string name="pref_sort_by_label_favorite" translatable="false">Favorite</string>
+
+    <string name="trailers_list_header">Trailers:</string>
+    <string name="reviews_list_header">Reviews:</string>
+</resources>

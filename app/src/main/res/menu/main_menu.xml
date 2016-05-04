@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/selecting_order" android:checkableBehavior="single">
+        <item android:id="@+id/btn1"
+            android:title="@string/pref_sort_by_label_popularity_desc"/>
+        <item android:id="@+id/btn2"
+            android:title="@string/pref_sort_by_label_vote_average_desc"/>
+        <item android:id="@+id/btn3"
+            android:title="@string/pref_sort_by_label_favorite"/>
+    </group>
+</menu>
